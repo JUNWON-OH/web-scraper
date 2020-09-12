@@ -1,2 +1,3 @@
-# web-scraper
- web-scraper
+# Scrapping from stack over flow & Indeed
+
+Flask Not Finished
