@@ -1,2 +1,4 @@
-# web-scraper
- web-scraper
+# Web Scrapers
+ Requests
+ BS4
+ pandas
